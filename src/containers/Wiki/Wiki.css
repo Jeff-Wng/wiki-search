@@ -1,0 +1,30 @@
+.Wiki {
+    padding-bottom: 50px;
+}
+
+.Wiki h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 75px;
+    letter-spacing: 1vw;
+    height: 100%;
+}
+
+.Warning {
+    font-size: 32px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media screen and (max-width: 530px) {
+    .Wiki h1 {
+        font-size: 65px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .Wiki h1 {
+        font-size: 55px;
+    }
+}
