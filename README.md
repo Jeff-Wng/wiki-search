@@ -1,3 +1,10 @@
+# wiki-search
+Search throught Wikipedia using the MetaWiki API. Users can use a slider to adjust the number of results displayed on screen up to 20. 
+The results are links to the articles on Wikipedia.
+
+App can be used at https://jwong421.github.io/wiki-search
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
